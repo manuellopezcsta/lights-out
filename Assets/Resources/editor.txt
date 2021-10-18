@@ -1,0 +1,6 @@
+
+
+<level>
+<levelname>1</levelname>
+<setup>8,12,13,14,18</setup>
+</level>
